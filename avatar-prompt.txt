@@ -1,12 +1,13 @@
-Generation mode: built-in image_gen
+SI4Music brand assets
 
-Use case: logo-brand
-Asset type: square GitHub organization avatar for SI4Music
-Primary request: Create a distinctive polished avatar for SI4Music, meaning "Super Intelligence for Musics": one cohesive emblem fusing a flowing musical waveform with the idea of an intelligent connected system.
-Scene/backdrop: clean, uncluttered solid backdrop with strong contrast.
-Subject: a bold sculptural S-shaped sound-wave emblem, with a small number of integrated connection points suggesting intelligence; make music the dominant visual.
-Style/medium: refined contemporary brand mark with a subtle dimensional finish, crisp edges and a memorable silhouette.
-Composition/framing: square 1:1 image; single large centered emblem; generous margins; all important details within the central 70 percent so it survives a circular avatar crop and remains clear at 32 pixels.
-Lighting/mood: creative, confident, precise.
-Text: none.
-Constraints: original design; no lettering, slogans, watermark or mockup; no clutter, tiny circuitry, robot face, headphones or generic brain illustration. Deliver one finished avatar.
+Display name: SI4Music — Superintelligence for Music Research
+
+Current approved assets:
+- assets/si4music-logo-monochrome-v3.png: black four-piece symbolic mark on white, used for the organization avatar.
+- assets/si4music-banner-monochrome-v1.png: matching white banner with the symbol, SI4Music name, and Superintelligence for Music Research subtitle.
+
+Use the approved artwork as supplied. Keep the complete symbol centered with generous white margins so it remains legible at small sizes and within avatar crops. Do not regenerate, recolor, distort, or add decorative elements.
+
+Historical assets are retained for reference; the current profile uses the monochrome files above.
+
+YouTube: https://www.youtube.com/@ToreToyProjects
